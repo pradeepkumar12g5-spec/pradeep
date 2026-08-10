@@ -142,9 +142,9 @@ My goal is to become a strong **Full Stack Software Developer** and contribute t
 
 # 📊 GitHub Stats
 
-![Pradeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Pradeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeepkumar12g5-spec\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepkumar12g5-spec\&layout=compact\&theme=tokyonight)
 
 ---
 
