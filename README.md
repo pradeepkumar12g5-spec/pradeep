@@ -150,7 +150,7 @@ My goal is to become a strong **Full Stack Software Developer** and contribute t
 
 # 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=github.com/pradeepkumar12g5-spec\&theme=tokyo-night)
 
 ---
 
